@@ -1,2 +1,3 @@
 # hello-world
 My First Repository
+About ME. I graduated with my Master's in Computer Engineering and Bachelor's in Electrical Engineering and my Associates in Electronics Technology. I've worked in the technical space since 2003 for the Department of Defense branch. During my college time, I've coded in multiple languages i.e. Python, C, C++, C#, and Java. I am currently studying Red Hat Linux scripting , Ruby on Rails, National Instruments LabVIEW, and Git Fundamentals. I planned taking the next few years to advance all of my programming languages, learn some additional skills, and finding a career in the remote world. I would like to work from home and travel here and there as a programmer or network analysis. 
